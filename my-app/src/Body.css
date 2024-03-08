@@ -1,0 +1,25 @@
+.boxes {
+    background-color: #1f2937;
+    color: #ffffff;
+    width: 85%;
+    margin: 160px auto 20px; /* Adjust margin to create space between navbar and boxes */
+    padding: 30px; /* Add padding inside the box */
+    text-align: center;
+    border-radius: 9px;
+  }
+  
+  .heading {
+    font-weight: 700;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+      Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 20px; /* Add space above the heading */
+    margin-bottom: 10px;
+  }
+  .para{
+    margin-top: 5px;
+    color: rgb(156 163 175);
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
